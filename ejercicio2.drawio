@@ -1,0 +1,89 @@
+<mxfile host="app.diagrams.net" modified="2023-05-02T17:30:30.464Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.64" etag="h4mHUO-0Xgsa1j_gBktR" version="21.2.4" type="device">
+  <diagram name="Página-1" id="UenHoyJcgVXuHnqiUs9d">
+    <mxGraphModel dx="1377" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lKinlsTaNDH3KqSZ1i0x-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="lKinlsTaNDH3KqSZ1i0x-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="148" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="78" y="160" />
+              <mxPoint x="78" y="300" />
+              <mxPoint x="138" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lKinlsTaNDH3KqSZ1i0x-35" value="jugadores" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="108" y="140" width="480" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lKinlsTaNDH3KqSZ1i0x-36" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="lKinlsTaNDH3KqSZ1i0x-35">
+          <mxGeometry y="30" width="480" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lKinlsTaNDH3KqSZ1i0x-37" value="&lt;b&gt;nombre&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="lKinlsTaNDH3KqSZ1i0x-36">
+          <mxGeometry width="120" height="50" as="geometry">
+            <mxRectangle width="120" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lKinlsTaNDH3KqSZ1i0x-38" value="&lt;b&gt;edad&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="lKinlsTaNDH3KqSZ1i0x-36">
+          <mxGeometry x="120" width="120" height="50" as="geometry">
+            <mxRectangle width="120" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lKinlsTaNDH3KqSZ1i0x-39" value="&lt;b&gt;posicion&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="lKinlsTaNDH3KqSZ1i0x-36">
+          <mxGeometry x="240" width="120" height="50" as="geometry">
+            <mxRectangle width="120" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lKinlsTaNDH3KqSZ1i0x-53" value="&lt;b&gt;dni&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="lKinlsTaNDH3KqSZ1i0x-36">
+          <mxGeometry x="360" width="120" height="50" as="geometry">
+            <mxRectangle width="120" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lKinlsTaNDH3KqSZ1i0x-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="lKinlsTaNDH3KqSZ1i0x-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="148" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="98" y="195" />
+              <mxPoint x="98" y="260" />
+              <mxPoint x="148" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lKinlsTaNDH3KqSZ1i0x-58" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;Nombre propuestos para los campos&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="149" y="245" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lKinlsTaNDH3KqSZ1i0x-59" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;Nombre propuesto para la tabla&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="151" y="285" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lKinlsTaNDH3KqSZ1i0x-62" value="&lt;h1 style=&quot;&quot;&gt;&lt;p style=&quot;font-size: 14px; border-color: var(--border-color); line-height: 20.8px;&quot;&gt;&lt;font color=&quot;#3333ff&quot;&gt;INSERT INTO&lt;/font&gt; &lt;i&gt;jugadores (nombre, edad, posicion, dni)&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); line-height: 20.8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#3333ff&quot;&gt;VALUES&lt;/font&gt; &lt;i style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;(&#39;Alberto Pérez&#39;, 21, &#39;Delantero&#39;, 31222333),&lt;/span&gt;&lt;/i&gt;&lt;/span&gt;&lt;i style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); line-height: 20.8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;font-size: 14px; white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;font-size: 14px; white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;(&#39;Juan Rodríguez&#39;, 23, &#39;Defensor&#39;, 30222444),&amp;nbsp;&lt;/span&gt;&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;i&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px; white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;font-size: 14px; white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;(&#39;José Sánchez&#39;, 25, &#39;Arquero&#39;, 29444333)&lt;/span&gt;&lt;/font&gt;&lt;/i&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="128" y="380" width="540" height="181" as="geometry" />
+        </mxCell>
+        <mxCell id="lKinlsTaNDH3KqSZ1i0x-63" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; size=&quot;1&quot;&gt;&lt;u style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;Sentencia de INSERT para los siguientes jugadores:&lt;/u&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="79" y="331" width="430" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lKinlsTaNDH3KqSZ1i0x-64" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;u style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 17px;&quot;&gt;Creación&amp;nbsp;de la tabla y sus campos:&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="79" y="90" width="311" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lKinlsTaNDH3KqSZ1i0x-65" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; size=&quot;1&quot;&gt;&lt;u style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;Sentencia de recuperación SELECT de datos que permita ver los DNI y los nombres:&lt;/u&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="79" y="611" width="610" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lKinlsTaNDH3KqSZ1i0x-66" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#3333ff&quot;&gt;SELECT &lt;/font&gt;dni, nombre &lt;font color=&quot;#3333ff&quot;&gt;FROM &lt;/font&gt;jugadores&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="652" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lKinlsTaNDH3KqSZ1i0x-67" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;u style=&quot;font-size: 15px;&quot;&gt;Sentencia DELETE para borrar a todos los jugadores que tengan menos de 21 años de edad:&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="79" y="731" width="670" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lKinlsTaNDH3KqSZ1i0x-69" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#3333ff&quot;&gt;DELETE FROM &lt;/font&gt;jugadores &lt;font color=&quot;#3333ff&quot;&gt;WHERE &lt;/font&gt;edad &amp;lt; 21&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="128" y="771" width="321" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lKinlsTaNDH3KqSZ1i0x-70" value="&lt;u&gt;&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;Sentencia UPDATE para modificar la edad de Rodríguez&amp;nbsp;a 38 años:&lt;/b&gt;&lt;/font&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="79" y="851" width="620" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lKinlsTaNDH3KqSZ1i0x-71" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px; font-weight: bold;&quot; color=&quot;#ff33ff&quot;&gt;UPDATE &lt;/font&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;jugadores &lt;/b&gt;&lt;/span&gt;&lt;font style=&quot;font-size: 14px; font-weight: bold;&quot; color=&quot;#0000ff&quot;&gt;SET &lt;/font&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;edad = 38 &lt;/b&gt;&lt;/span&gt;&lt;font style=&quot;font-size: 14px; font-weight: bold;&quot; color=&quot;#3333ff&quot;&gt;WHERE &lt;/font&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;nombre = &#39;Juan Rodríguez&#39;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="891" width="490" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
